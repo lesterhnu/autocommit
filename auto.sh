@@ -1,3 +1,4 @@
+cd ~/github/autocommit
 echo $(date) >> date.log
 git pull 
 
